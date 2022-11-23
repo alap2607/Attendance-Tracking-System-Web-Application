@@ -1,0 +1,65 @@
+/* * {
+    border:1px solid gray;
+
+} */
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+    background-image: url("images/adminblock.jpg");
+    background-repeat: no-repeat, repeat;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.container{
+    background: #ffffffaa;
+    backdrop-filter: blur(8px);
+    height: 100%;
+    width: 100%;
+}
+img{
+    display: block;
+    margin: auto;
+    margin-bottom: 60px;
+    height: 200px;
+}
+.selection-wrapper{
+    /* background: #ffffff77; */
+    padding: 10px;
+    margin: auto;
+    width: 450px;
+}
+.question{
+    margin-bottom: 20px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: x-large;
+}
+.btn{
+    display: block;
+    margin: 50px auto 50px auto;
+    width: 300px;
+    height: 50px;
+    background-color: #047454;
+    color: white;
+    font-size: x-large;
+}
+.or{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: x-large;
+}
+.link{
+    display: block;
+    text-align: center;
+    margin-top: 70px;
+    width: 100%;
+}
+.admin{
+    color: #047454;
+    font-size: x-large;
+}
